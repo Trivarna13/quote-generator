@@ -1,2 +1,4 @@
-# quote-generator
-Random quote generator
+# quote-generator  
+
+Random quote generator  
+![Random Quote Generator](quoteGenerator.PNG)
